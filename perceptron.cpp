@@ -22,16 +22,18 @@ class Perceptron {
   ofstream gnuplot_file, zero_file, one_file;
 
   public:
+
     Perceptron(char *input_file_name){
       srand(time(NULL));
 
       w0 = double(rand())/RAND_MAX;
       w1 = double(rand())/RAND_MAX;
       w2 = double(rand())/RAND_MAX;
-      init_file(&zero_file, Perceptron::zero_file_name);
-      init_file(&one_file, Perceptron::one_file_name);
+
+      init_file(&zero_file, zero_file_name);
+      init_file(&one_file, one_file_name);
       init_file(&input_file, input_file_name);
-      init_file(&gnuplot_file, Perceptron::gnuplot_file_name);
+      init_file(&gnuplot_file, gnuplot_file_name);
 
       input_file_lines_count = std::count(
         istreambuf_iterator<char>(input_file),
@@ -46,7 +48,6 @@ class Perceptron {
 
       init_gnuplot();
       read_input_file();
-
     };
 
     bool output(double x1, double x2) {
@@ -55,15 +56,15 @@ class Perceptron {
 
     bool teach(){
 
+
+      put_line_to_gnuplot_file(w0, w1, w2);
       cout_iteration(-1, w0, w1, w2);
       for(int t = 0; t < MAX_CYCLES_COUNT; t++){
         for(int i = 0; i < input_file_lines_count; i++){
+
           double output_val = output_vec[i],
                  *c_vec = input_vec[i];
-
           bool output_result = output(input_vec[i][1], input_vec[i][2]);
-
-          put_line_to_gnuplot_file(w0, w1, w2);
 
           delta0 = c_vec[0] * (output_val - output_result);
           delta1 = c_vec[1] * delta0;
@@ -75,7 +76,6 @@ class Perceptron {
 
           put_line_to_gnuplot_file(w0, w1, w2);
           cout_iteration(i, w0, w1, w2);
-
         }
       }
 
@@ -129,8 +129,8 @@ class Perceptron {
       gnuplot_file << "set xtics 1\n";
       gnuplot_file << "set ytics 1\n";
       gnuplot_file << "set grid xtics ytics\n";
-      gnuplot_file << "plot 'zero.dat' using 1:2 title '\"0\" points set' with points linecolor rgb 'blue',\\\n";
-      gnuplot_file << "'one.dat' using 1:2 title '\"1\" points set' with points linecolor rgb 'red',\\\n";
+      gnuplot_file << "plot '" << zero_file_name << "' using 1:2 title '\"0\" points set' with points linecolor rgb 'blue',\\\n";
+      gnuplot_file << "'" << one_file_name << "' using 1:2 title '\"1\" points set' with points linecolor rgb 'red',\\\n";
       gnuplot_file << '(' << -w1 / w2 << ")*x+(" << -w0 / w2 << ") linecolor rgb 'black'\n";
       gnuplot_file << "pause 1.5\n";
     }
