@@ -8,3210 +8,2442 @@ set ytics 1
 set grid xtics ytics
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.48735)*x+(-2.32116) linecolor rgb 'black'
+(-0.300301)*x+(-0.481761) linecolor rgb 'black'
 pause 1.5
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.48735)*x+(-2.32116) linecolor rgb 'black'
+(-0.300301)*x+(-0.481761) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.212188)*x+(0.373672) linecolor rgb 'black'
+(-0.300301)*x+(-0.481761) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.212188)*x+(0.373672) linecolor rgb 'black'
+(-0.300301)*x+(-0.481761) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.212188)*x+(0.373672) linecolor rgb 'black'
+(1.25859)*x+(0.688804) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.662476)*x+(1.7421) linecolor rgb 'black'
+(1.25859)*x+(0.688804) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.662476)*x+(1.7421) linecolor rgb 'black'
+(-2.54381)*x+(-3.55014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.662476)*x+(1.7421) linecolor rgb 'black'
+(-2.54381)*x+(-3.55014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.662476)*x+(1.7421) linecolor rgb 'black'
+(0.839796)*x+(-10.0423) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.662476)*x+(1.7421) linecolor rgb 'black'
+(0.839796)*x+(-10.0423) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(6.91422)*x+(-6.24578) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.02312)*x+(0.688601) linecolor rgb 'black'
+(-0.87679)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.373154)*x+(1.43892) linecolor rgb 'black'
+(-0.87679)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.373154)*x+(1.43892) linecolor rgb 'black'
+(-0.87679)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.373154)*x+(1.43892) linecolor rgb 'black'
+(-0.87679)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.373154)*x+(1.43892) linecolor rgb 'black'
+(-0.87679)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.373154)*x+(1.43892) linecolor rgb 'black'
+(-0.87679)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.373154)*x+(1.43892) linecolor rgb 'black'
+(-0.87679)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01909)*x+(0.568763) linecolor rgb 'black'
+(-2.5851)*x+(1.7565) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.169606)*x+(1.22562) linecolor rgb 'black'
+(-0.89847)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.169606)*x+(1.22562) linecolor rgb 'black'
+(-0.89847)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.50649)*x+(-52.2582) linecolor rgb 'black'
+(-0.89847)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.50649)*x+(-52.2582) linecolor rgb 'black'
+(-0.89847)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.50649)*x+(-52.2582) linecolor rgb 'black'
+(-0.89847)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.50649)*x+(-52.2582) linecolor rgb 'black'
+(-0.89847)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(27.0024)*x+(-32.5651) linecolor rgb 'black'
+(-2.30618)*x+(1.44742) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.193246)*x+(17.7833) linecolor rgb 'black'
+(-0.913662)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.193246)*x+(17.7833) linecolor rgb 'black'
+(-0.913662)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.193246)*x+(17.7833) linecolor rgb 'black'
+(-0.913662)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.193246)*x+(17.7833) linecolor rgb 'black'
+(-0.913662)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.193246)*x+(17.7833) linecolor rgb 'black'
+(-0.913662)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(0.193246)*x+(17.7833) linecolor rgb 'black'
+(-0.913662)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-10.5291)*x+(11.0818) linecolor rgb 'black'
+(-2.11073)*x+(1.23083) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.490131)*x+(7.59873) linecolor rgb 'black'
+(-0.9249)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.490131)*x+(7.59873) linecolor rgb 'black'
+(-0.571818)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.490131)*x+(7.59873) linecolor rgb 'black'
+(-0.571818)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.490131)*x+(7.59873) linecolor rgb 'black'
+(-0.571818)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.490131)*x+(7.59873) linecolor rgb 'black'
+(-0.571818)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.490131)*x+(7.59873) linecolor rgb 'black'
+(-0.571818)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-5.07176)*x+(4.73521) linecolor rgb 'black'
+(-2.74396)*x+(3.591) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.675801)*x+(4.83164) linecolor rgb 'black'
+(-0.663251)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.675801)*x+(4.83164) linecolor rgb 'black'
+(-0.663251)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.675801)*x+(4.83164) linecolor rgb 'black'
+(-0.663251)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.675801)*x+(4.83164) linecolor rgb 'black'
+(-0.663251)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.675801)*x+(4.83164) linecolor rgb 'black'
+(-0.663251)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.675801)*x+(4.83164) linecolor rgb 'black'
+(-0.663251)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.58902)*x+(3.01087) linecolor rgb 'black'
+(-2.37156)*x+(2.82419) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.762344)*x+(3.54186) linecolor rgb 'black'
+(-0.722507)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.762344)*x+(3.54186) linecolor rgb 'black'
+(-0.722507)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.762344)*x+(3.54186) linecolor rgb 'black'
+(-0.722507)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.762344)*x+(3.54186) linecolor rgb 'black'
+(-0.722507)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.762344)*x+(3.54186) linecolor rgb 'black'
+(-0.722507)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.762344)*x+(3.54186) linecolor rgb 'black'
+(-0.722507)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.8979)*x+(2.20714) linecolor rgb 'black'
+(-2.13021)*x+(2.32723) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.812418)*x+(2.79559) linecolor rgb 'black'
+(-0.764029)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.812418)*x+(2.79559) linecolor rgb 'black'
+(-0.764029)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.812418)*x+(2.79559) linecolor rgb 'black'
+(-0.764029)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.812418)*x+(2.79559) linecolor rgb 'black'
+(-0.764029)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.812418)*x+(2.79559) linecolor rgb 'black'
+(-0.764029)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.812418)*x+(2.79559) linecolor rgb 'black'
+(-0.764029)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(1.7421) linecolor rgb 'black'
+(-1.9611)*x+(1.979) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.845063)*x+(2.30907) linecolor rgb 'black'
+(-0.794742)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.845063)*x+(2.30907) linecolor rgb 'black'
+(-0.794742)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.845063)*x+(2.30907) linecolor rgb 'black'
+(-0.794742)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.845063)*x+(2.30907) linecolor rgb 'black'
+(-0.794742)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.845063)*x+(2.30907) linecolor rgb 'black'
+(-0.794742)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.845063)*x+(2.30907) linecolor rgb 'black'
+(-0.794742)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(1.43892) linecolor rgb 'black'
+(-1.836)*x+(1.72142) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.86803)*x+(1.96679) linecolor rgb 'black'
+(-0.818381)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.86803)*x+(1.96679) linecolor rgb 'black'
+(-0.818381)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.86803)*x+(1.96679) linecolor rgb 'black'
+(-0.818381)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.86803)*x+(1.96679) linecolor rgb 'black'
+(-0.818381)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.86803)*x+(1.96679) linecolor rgb 'black'
+(-0.818381)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.86803)*x+(1.96679) linecolor rgb 'black'
+(-0.818381)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(1.22562) linecolor rgb 'black'
+(-1.73972)*x+(1.52317) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.885067)*x+(1.71288) linecolor rgb 'black'
+(-0.837138)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.885067)*x+(1.71288) linecolor rgb 'black'
+(-0.837138)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.885067)*x+(1.71288) linecolor rgb 'black'
+(-0.837138)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.885067)*x+(1.71288) linecolor rgb 'black'
+(-0.837138)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.885067)*x+(1.71288) linecolor rgb 'black'
+(-0.837138)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.885067)*x+(1.71288) linecolor rgb 'black'
+(-0.837138)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(1.0674) linecolor rgb 'black'
+(-1.66333)*x+(1.36586) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.898208)*x+(1.51704) linecolor rgb 'black'
+(-0.852383)*x+(1.70604) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.601719)*x+(3.84909) linecolor rgb 'black'
+(-0.852383)*x+(1.70604) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.601719)*x+(3.84909) linecolor rgb 'black'
+(-0.852383)*x+(1.70604) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.601719)*x+(3.84909) linecolor rgb 'black'
+(-0.852383)*x+(1.70604) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.601719)*x+(3.84909) linecolor rgb 'black'
+(-0.852383)*x+(1.70604) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.601719)*x+(3.84909) linecolor rgb 'black'
+(-0.852383)*x+(1.70604) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.28731)*x+(2.79559) linecolor rgb 'black'
+(-1.60124)*x+(1.23801) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.671032)*x+(3.17923) linecolor rgb 'black'
+(-0.865018)*x+(1.56002) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.671032)*x+(3.17923) linecolor rgb 'black'
+(-0.664585)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.671032)*x+(3.17923) linecolor rgb 'black'
+(-0.664585)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.671032)*x+(3.17923) linecolor rgb 'black'
+(-0.664585)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.671032)*x+(3.17923) linecolor rgb 'black'
+(-0.664585)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.671032)*x+(3.17923) linecolor rgb 'black'
+(-0.664585)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.06328)*x+(2.30907) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.719796)*x+(2.70796) linecolor rgb 'black'
+(-1.70584)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.719796)*x+(2.70796) linecolor rgb 'black'
+(-2.20092)*x+(6.30618) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.719796)*x+(2.70796) linecolor rgb 'black'
+(-2.20092)*x+(6.30618) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.719796)*x+(2.70796) linecolor rgb 'black'
+(-2.20092)*x+(6.30618) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.719796)*x+(2.70796) linecolor rgb 'black'
+(-2.20092)*x+(6.30618) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.719796)*x+(2.70796) linecolor rgb 'black'
+(-2.20092)*x+(6.30618) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.90567)*x+(1.96679) linecolor rgb 'black'
+(-4.37306)*x+(4.94859) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.75597)*x+(2.35837) linecolor rgb 'black'
+(-1.94448)*x+(4.95957) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.75597)*x+(2.35837) linecolor rgb 'black'
+(-1.94448)*x+(4.95957) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.75597)*x+(2.35837) linecolor rgb 'black'
+(-1.94448)*x+(4.95957) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.75597)*x+(2.35837) linecolor rgb 'black'
+(-1.94448)*x+(4.95957) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.75597)*x+(2.35837) linecolor rgb 'black'
+(-1.94448)*x+(4.95957) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.75597)*x+(2.35837) linecolor rgb 'black'
+(-1.94448)*x+(4.95957) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.78875)*x+(1.71288) linecolor rgb 'black'
+(-3.65279)*x+(3.89188) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.783871)*x+(2.08872) linecolor rgb 'black'
+(-1.77829)*x+(4.08687) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.783871)*x+(2.08872) linecolor rgb 'black'
+(-1.77829)*x+(4.08687) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.783871)*x+(2.08872) linecolor rgb 'black'
+(-1.77829)*x+(4.08687) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.783871)*x+(2.08872) linecolor rgb 'black'
+(-1.77829)*x+(4.08687) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.783871)*x+(2.08872) linecolor rgb 'black'
+(-1.77829)*x+(4.08687) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.783871)*x+(2.08872) linecolor rgb 'black'
+(-1.77829)*x+(4.08687) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.69856)*x+(1.51704) linecolor rgb 'black'
+(-3.18599)*x+(3.20705) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.806047)*x+(1.87441) linecolor rgb 'black'
+(-1.66183)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.806047)*x+(1.87441) linecolor rgb 'black'
+(-1.66183)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.806047)*x+(1.87441) linecolor rgb 'black'
+(-1.66183)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.806047)*x+(1.87441) linecolor rgb 'black'
+(-1.66183)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.806047)*x+(1.87441) linecolor rgb 'black'
+(-1.66183)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.806047)*x+(1.87441) linecolor rgb 'black'
+(-1.66183)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.62689)*x+(1.36138) linecolor rgb 'black'
+(-2.8589)*x+(2.72717) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.824096)*x+(1.69998) linecolor rgb 'black'
+(-1.57569)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.824096)*x+(1.69998) linecolor rgb 'black'
+(-1.57569)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.824096)*x+(1.69998) linecolor rgb 'black'
+(-1.57569)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.824096)*x+(1.69998) linecolor rgb 'black'
+(-1.57569)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.824096)*x+(1.69998) linecolor rgb 'black'
+(-1.57569)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.824096)*x+(1.69998) linecolor rgb 'black'
+(-1.57569)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.56855)*x+(1.2347) linecolor rgb 'black'
+(-2.61695)*x+(2.37221) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.839071)*x+(1.55525) linecolor rgb 'black'
+(-1.50939)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.626872)*x+(3.00385) linecolor rgb 'black'
+(-1.50939)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.626872)*x+(3.00385) linecolor rgb 'black'
+(-1.50939)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.626872)*x+(3.00385) linecolor rgb 'black'
+(-1.50939)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.626872)*x+(3.00385) linecolor rgb 'black'
+(-1.50939)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-0.626872)*x+(3.00385) linecolor rgb 'black'
+(-1.50939)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.65965)*x+(2.35837) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.65965)*x+(2.35837) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.65965)*x+(2.35837) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.65965)*x+(2.35837) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.65965)*x+(2.35837) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.65965)*x+(2.35837) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.65965)*x+(2.35837) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-8.323)*x+(4.83164) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-8.323)*x+(4.83164) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.04157)*x+(2.08872) linecolor rgb 'black'
+(-2.43073)*x+(2.09901) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.11386)*x+(2.38743) linecolor rgb 'black'
+(-1.45678)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.11386)*x+(2.38743) linecolor rgb 'black'
+(-1.45678)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.11386)*x+(2.38743) linecolor rgb 'black'
+(-1.45678)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.11386)*x+(2.38743) linecolor rgb 'black'
+(-1.45678)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.11386)*x+(2.38743) linecolor rgb 'black'
+(-1.45678)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.11386)*x+(2.38743) linecolor rgb 'black'
+(-1.45678)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.9347)*x+(1.87441) linecolor rgb 'black'
+(-2.28297)*x+(1.88223) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.10327)*x+(2.16527) linecolor rgb 'black'
+(-1.41402)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.10327)*x+(2.16527) linecolor rgb 'black'
+(-1.5122)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.10327)*x+(2.16527) linecolor rgb 'black'
+(-1.5122)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.10327)*x+(2.16527) linecolor rgb 'black'
+(-1.5122)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.10327)*x+(2.16527) linecolor rgb 'black'
+(-1.5122)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.10327)*x+(2.16527) linecolor rgb 'black'
+(-1.5122)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.84772)*x+(1.69998) linecolor rgb 'black'
+(-2.70926)*x+(3.47533) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.09448)*x+(1.98093) linecolor rgb 'black'
+(-1.44553)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.09448)*x+(1.98093) linecolor rgb 'black'
+(-1.44553)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.09448)*x+(1.98093) linecolor rgb 'black'
+(-1.44553)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.09448)*x+(1.98093) linecolor rgb 'black'
+(-1.44553)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.09448)*x+(1.98093) linecolor rgb 'black'
+(-1.44553)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.09448)*x+(1.98093) linecolor rgb 'black'
+(-1.44553)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.77555)*x+(1.55525) linecolor rgb 'black'
+(-2.48679)*x+(3.02299) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.08706)*x+(1.82551) linecolor rgb 'black'
+(-1.39422)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01254)*x+(3.23209) linecolor rgb 'black'
+(-1.39422)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01254)*x+(3.23209) linecolor rgb 'black'
+(-1.39422)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01254)*x+(3.23209) linecolor rgb 'black'
+(-1.39422)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01254)*x+(3.23209) linecolor rgb 'black'
+(-1.39422)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.01254)*x+(3.23209) linecolor rgb 'black'
+(-1.39422)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-2.31556)*x+(2.67484) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.92724)*x+(2.6604) linecolor rgb 'black'
+(-1.35351)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(5.95608) linecolor rgb 'black'
+(-1.35351)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(5.95608) linecolor rgb 'black'
+(-1.35351)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(5.95608) linecolor rgb 'black'
+(-1.35351)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(5.95608) linecolor rgb 'black'
+(-1.35351)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.49801)*x+(5.95608) linecolor rgb 'black'
+(-1.35351)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.1836)*x+(4.90258) linecolor rgb 'black'
+(-2.1797)*x+(2.3986) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(4.91954) linecolor rgb 'black'
+(-1.32042)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(4.91954) linecolor rgb 'black'
+(-1.32042)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(4.91954) linecolor rgb 'black'
+(-1.32042)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(4.91954) linecolor rgb 'black'
+(-1.32042)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(4.91954) linecolor rgb 'black'
+(-1.32042)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.23731)*x+(4.91954) linecolor rgb 'black'
+(-1.32042)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.62956)*x+(4.04938) linecolor rgb 'black'
+(-2.06927)*x+(2.17408) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(4.1903) linecolor rgb 'black'
+(-1.29299)*x+(2.41596) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(4.1903) linecolor rgb 'black'
+(-1.29299)*x+(2.41596) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(4.1903) linecolor rgb 'black'
+(-1.29299)*x+(2.41596) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(4.1903) linecolor rgb 'black'
+(-1.29299)*x+(2.41596) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(4.1903) linecolor rgb 'black'
+(-1.29299)*x+(2.41596) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.0539)*x+(4.1903) linecolor rgb 'black'
+(-1.29299)*x+(2.41596) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.23977)*x+(3.44913) linecolor rgb 'black'
+(-1.97775)*x+(1.98799) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(3.64934) linecolor rgb 'black'
+(-1.26989)*x+(2.22547) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(3.64934) linecolor rgb 'black'
+(-1.26989)*x+(2.22547) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(3.64934) linecolor rgb 'black'
+(-1.26989)*x+(2.22547) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(3.64934) linecolor rgb 'black'
+(-1.26989)*x+(2.22547) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(3.64934) linecolor rgb 'black'
+(-1.26989)*x+(2.22547) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.91784)*x+(3.64934) linecolor rgb 'black'
+(-1.26989)*x+(2.22547) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.95062)*x+(3.00385) linecolor rgb 'black'
+(-1.90065)*x+(1.83124) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.8129)*x+(3.23209) linecolor rgb 'black'
+(-1.25016)*x+(2.06283) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.8129)*x+(3.23209) linecolor rgb 'black'
+(-1.25016)*x+(2.06283) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.8129)*x+(3.23209) linecolor rgb 'black'
+(-1.25016)*x+(2.06283) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.8129)*x+(3.23209) linecolor rgb 'black'
+(-1.25016)*x+(2.06283) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.8129)*x+(3.23209) linecolor rgb 'black'
+(-1.25016)*x+(2.06283) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.8129)*x+(3.23209) linecolor rgb 'black'
+(-1.25016)*x+(2.06283) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.72759)*x+(2.6604) linecolor rgb 'black'
+(-1.83483)*x+(1.69741) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.72949)*x+(2.90046) linecolor rgb 'black'
+(-1.23313)*x+(1.92234) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.72949)*x+(2.90046) linecolor rgb 'black'
+(-1.22681)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.72949)*x+(2.90046) linecolor rgb 'black'
+(-1.22681)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.72949)*x+(2.90046) linecolor rgb 'black'
+(-1.22681)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.72949)*x+(2.90046) linecolor rgb 'black'
+(-1.22681)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.72949)*x+(2.90046) linecolor rgb 'black'
+(-1.22681)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-2.55033)*x+(2.38743) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-1.97566)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-2.41)*x+(4.97167) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-2.41)*x+(4.97167) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-2.41)*x+(4.97167) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-2.41)*x+(4.97167) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-2.41)*x+(4.97167) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-1.66161)*x+(2.63055) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.84778)*x+(4.04938) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.84778)*x+(4.04938) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-4.84778)*x+(4.04938) linecolor rgb 'black'
+(-3.60706)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.22647)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.22647)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.22647)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.22647)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.22647)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.22647)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.26773)*x+(3.67378) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.08522)*x+(3.82652) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.08522)*x+(3.82652) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.08522)*x+(3.82652) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.08522)*x+(3.82652) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.08522)*x+(3.82652) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.08522)*x+(3.82652) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.00656)*x+(3.25068) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.97315)*x+(3.43134) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.97315)*x+(3.43134) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.97315)*x+(3.43134) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.97315)*x+(3.43134) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.97315)*x+(3.43134) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.97315)*x+(3.43134) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.79934)*x+(2.91497) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.88206)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.88206)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.88206)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.88206)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.88206)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.88206)*x+(3.11014) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-2.63091)*x+(2.64211) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-1.80656)*x+(2.84393) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-4.6545)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-4.6545)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-4.6545)*x+(4.2235) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
 'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
-pause 0.01
-plot 'zero.dat' using 1:2 title '"0" points set' with points linecolor rgb 'blue',\
-'one.dat' using 1:2 title '"1" points set' with points linecolor rgb 'red',\
-(-3.09154)*x+(4.1903) linecolor rgb 'black'
+(-3.13758)*x+(4.32457) linecolor rgb 'black'
 pause 0.01
 pause -1

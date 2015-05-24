@@ -3,18 +3,19 @@
 #include <ctime>
 #include <cmath>
 #include <cstdlib>
-#define MAX_CYCLES_COUNT 50
+#define MAX_CYCLES_COUNT 1000
+#define MAX_ZERO_COUNT 30
 
 using namespace std;
 
 class Perceptron {
 
   double w0, w1, w2,
-         **input_vec, *output_vec,
-         delta0, delta1, delta2;
+         **input_vec, *output_vec;
 
   enum errors { FILE_ERROR };
-  int input_file_lines_count;
+  int input_file_lines_count,
+      current_zero_count;
 
   static const char gnuplot_file_name[], zero_file_name[], one_file_name[];
 
@@ -38,6 +39,7 @@ class Perceptron {
       input_file_lines_count = std::count(
         istreambuf_iterator<char>(input_file),
         istreambuf_iterator<char>(), '\n');
+      current_zero_count = 0;
 
       input_vec = new double*[input_file_lines_count];
       for (int i = 0; i < input_file_lines_count; i++){
@@ -54,26 +56,27 @@ class Perceptron {
       return w0 + x1 * w1 + x2 * w2 >= 0;
     }
 
+    bool zero_count_exceed(){
+      return current_zero_count >= MAX_ZERO_COUNT;
+    }
+
     bool teach(){
-
-
       put_line_to_gnuplot_file(w0, w1, w2);
       cout_iteration(-1, w0, w1, w2);
-      for(int t = 0; t < MAX_CYCLES_COUNT; t++){
+      for(int t = 0; t < MAX_CYCLES_COUNT && !zero_count_exceed(); t++){
         for(int i = 0; i < input_file_lines_count; i++){
-
           double output_val = output_vec[i],
                  *c_vec = input_vec[i];
           bool output_result = output(input_vec[i][1], input_vec[i][2]);
-
-          delta0 = c_vec[0] * (output_val - output_result);
-          delta1 = c_vec[1] * delta0;
-          delta2 = c_vec[2] * delta0;
-
-          w0 += delta0;
-          w1 += delta1;
-          w2 += delta2;
-
+          double yi = output_val - output_result;
+          if(yi == 0){
+            current_zero_count++;
+          }else{
+            w0 += c_vec[0] * yi;
+            w1 += c_vec[1] * yi;
+            w2 += c_vec[2] * yi;
+            current_zero_count = 0;
+          }
           put_line_to_gnuplot_file(w0, w1, w2);
           cout_iteration(i, w0, w1, w2);
         }
